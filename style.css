@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+#nav a p{
+    font-size: 20px;
+    color: rgb(249, 249, 249);
+    text-transform: capitalize;
+    margin: 10px;
+    text-decoration: none;
+
+}
+#nav a{
+    text-decoration: none;
+}
